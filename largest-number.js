@@ -9,4 +9,4 @@ if (num2 > largest) {
 if (num3 > largest) {
     largest = num3
 }
-console.log(largest)
+console.log("The largest number is: " + largest)
